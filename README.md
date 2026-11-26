@@ -1,4 +1,4 @@
-# Pet Buddy 2.0
+# Pet Buddy 
 
 A responsive, static pet-community website designed for GitHub Pages.
 
